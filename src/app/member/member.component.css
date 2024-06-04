@@ -1,0 +1,22 @@
+table, .leng{
+    width: 100%;
+}
+.mod{
+    margin: 20px;
+}
+.ied{
+    color:orange;
+}
+.idel{
+    color: red;
+}
+.bet{
+    float: right;
+}
+.btn{
+    margin: 10px;
+    background-color: darkblue;
+    color: white;
+    font-size: x-large;
+    cursor: pointer;
+}

@@ -1,0 +1,31 @@
+<form [formGroup]="form">
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="ID" formControlName="id">
+        </mat-form-field>
+    </p>
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="type" formControlName="type">
+        </mat-form-field>
+    </p>
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="titre" formControlName="titre">
+        </mat-form-field>
+    </p>
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput [matDatepicker]="date" formControlName="date">
+            <mat-hint>MM/DD/YYYY</mat-hint>
+            <mat-datepicker-toggle matIconSuffix [for]="date"></mat-datepicker-toggle>
+            <mat-datepicker #date></mat-datepicker>
+        </mat-form-field>
+    </p>
+    <section>
+        <div class="example-button-row">
+            <button mat-raised-button (click)="close()">Cancel</button>
+            <button mat-raised-button mat-primary (click)="save()">Submit</button>
+        </div>
+    </section>
+</form>

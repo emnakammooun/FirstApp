@@ -1,0 +1,23 @@
+<form [formGroup]="form" (ngSubmit)="onsub()">
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="type" formControlName="type">
+        </mat-form-field>
+    </p>
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="titre" formControlName="titre">
+        </mat-form-field>
+    </p>
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="date" formControlName="date">
+        </mat-form-field>
+    </p>
+    <section>
+        <mat-dialog-actions>
+            <button class="mat-raised-button"(click)="close()">Close</button>
+            <button class="mat-raised-button mat-primary"(click)="save()">Save</button>
+        </mat-dialog-actions>
+    </section>
+</form>

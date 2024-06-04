@@ -1,0 +1,8 @@
+.mat-sidenav-container {
+    background-color: rgb(215, 145, 243); /* Pastel blue */
+  }
+  .mat-sidenav-content .mat-toolbar {
+    background-color: palevioletred/* Replace 'your-color' with your desired color */
+  }
+
+  

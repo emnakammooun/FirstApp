@@ -1,0 +1,17 @@
+<form [formGroup]="form" (ngSubmit)="onsub()">
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="type" formControlName="type">
+        </mat-form-field>
+    </p>
+    <p>
+        <mat-form-field appearance="fill">
+            <input matInput placeholder="titre" formControlName="titre">
+        </mat-form-field>
+    </p>
+    <section>
+        <div class="example-button-row">
+            <button mat-raised-button type="submit">Submit</button>
+        </div>
+    </section>
+</form>

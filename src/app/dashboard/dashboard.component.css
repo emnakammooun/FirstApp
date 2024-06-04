@@ -1,0 +1,46 @@
+.mgCar{
+    margin-top: 30px;
+}
+.col1{
+    background-color: aqua;
+    margin-left: 50px;
+    height: 100px;
+    width: 175px;
+}
+
+.col2{
+    background-color:rgb(222, 33, 33);
+    margin-left: 50px;
+    height: 100px;
+    width: 175px;
+}
+
+.col3{
+    background-color:rgb(167, 81, 98);
+    margin-left: 50px;
+    height: 100px;
+    width: 175px;
+}
+
+.col4{
+    background-color:rgb(222, 116, 97);
+    margin-left: 50px;
+    height: 100px;
+    width: 175px;
+}
+
+.tailLine{
+    height: 300px;
+}
+.chart-wrapper2 {
+  width: 100%;
+  height: 400px; 
+  border: 1px solid #ccc;
+  border-radius: 5px; 
+  overflow: hidden;
+  margin-left: 200px;
+  margin-top: 50px;
+  
+}
+
+

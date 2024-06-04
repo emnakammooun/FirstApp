@@ -1,0 +1,54 @@
+{
+    "members":[
+        {
+            "id":"111",
+            "cin":"12345",
+            "name":"ali hammami",
+            "cv":"https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+            "type":"etudiant",
+            "createdDate":"27/01/2024"
+        },{
+            "id":"22",
+            "cin":"98765",
+            "name":"test test",
+            "cv":"https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+            "type":"etudiant",
+            "createdDate":"27/01/2024"
+        }
+    ],
+    "articles":[
+        {
+            "id":"0001",
+            "type":"test",
+            "titre":"ttttttt",
+            "date":"27/01/2024"
+        },{
+            "id":"0002",
+            "type":"aaaaaaaa",
+            "titre":"aaaaaaaa",
+            "date":"25/03/2024"
+        },
+        {
+            "id":"0001",
+            "type":"test",
+            "titre":"ttttttt",
+            "date":"27/01/2024"
+        },{
+            "id":"0002",
+            "type":"aaaaaaaa",
+            "titre":"aaaaaaaa",
+            "date":"25/03/2024"
+        },
+        {
+            "id":"0001",
+            "type":"test",
+            "titre":"ttttttt",
+            "date":"27/01/2024"
+        },{
+            "id":"0002",
+            "type":"aaaaaaaa",
+            "titre":"aaaaaaaa",
+            "date":"25/03/2024"
+        }
+    ]
+}

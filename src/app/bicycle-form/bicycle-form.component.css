@@ -1,0 +1,33 @@
+.bicycle-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    width: 80%; /* Adjust as needed */
+    margin-bottom: 16px;
+    border-radius: 50px; /* Circular border */
+    background-color: #f8bbd0; /* Pink background color */
+  }
+  
+  .mat-form-field-appearance-fill .mat-form-field-flex {
+    padding: 0 16px; /* Padding to ensure circular borders appear correctly */
+  }
+  
+  .button-row {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    width: 100%;
+    margin-top: 16px;
+  }
+  
+  .mat-raised-button {
+    border-radius: 50px; /* Circular borders for buttons */
+  }
+  

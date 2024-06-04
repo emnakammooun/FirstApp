@@ -1,0 +1,272 @@
+{
+  "members": [
+    {
+      "cin": "12345",
+      "name": "ali",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "etudiant",
+      "id": "111"
+    },
+    {
+      "id": "111",
+      "cin": "12345",
+      "name": "youssef",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "teacher",
+      "createdDate": "27/01/2024",
+      "tab_pub": [
+        {
+          "id": "0004",
+          "type": "aaaaaaaa",
+          "titre": "aaaaaaaa",
+          "date": "03/25/2024"
+        },
+        {
+          "id": "0005",
+          "type": "test",
+          "titre": "ttttttt",
+          "date": "01/27/2024"
+        }
+      ],
+      "tab_evt": [
+        {
+          "id": "0004",
+          "titre": "aliali",
+          "lieu": "aliali",
+          "dateDebut": "2024-04-24T23:00:00.000Z",
+          "dateFin": "2024-04-26T23:00:00.000Z"
+        },
+        {
+          "id": "0004",
+          "titre": "aliali",
+          "lieu": "aliali",
+          "dateDebut": "2024-04-24T23:00:00.000Z",
+          "dateFin": "2024-04-26T23:00:00.000Z"
+        },
+        {
+          "id": "0005",
+          "titre": "test",
+          "lieu": "test",
+          "dateDebut": "2024-04-15T23:00:00.000Z",
+          "dateFin": "2024-04-17T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "cin": "98765",
+      "name": "test test",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "etudiant",
+      "createdDate": "27/01/2024",
+      "tab_pub": [
+        {
+          "id": "0002",
+          "type": "bbbbbbbb",
+          "titre": "bbbbbb",
+          "date": "03/25/2024"
+        },
+        {
+          "id": "0003",
+          "type": "mmmmmmmm",
+          "titre": "mmmmmmmm",
+          "date": "03/25/2024"
+        }
+      ],
+      "tab_evt": [
+        {
+          "id": "0001",
+          "titre": "12345",
+          "lieu": "ali hammami",
+          "dateDebut": "2024-01-27",
+          "dateFin": "2024-01-27"
+        },
+        {
+          "id": "006",
+          "titre": "zzzzzz",
+          "lieu": "zzzzz",
+          "dateDebut": "2024-04-17T23:00:00.000Z",
+          "dateFin": "2024-04-22T23:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "0002",
+      "type": "iok",
+      "titre": "pok",
+      "date": "2024-05-13T23:00:00.000Z"
+    },
+    {
+      "id": "0003",
+      "type": "mmmmmmmm",
+      "titre": "mmmmmmmm",
+      "date": "03/25/2024"
+    },
+    {
+      "id": "0004",
+      "type": "aaaaaaaa",
+      "titre": "aaaaaaaa",
+      "date": "03/25/2024"
+    },
+    {
+      "id": "0005",
+      "type": "test",
+      "titre": "ttttttt",
+      "date": "01/27/2024"
+    },
+    {
+      "id": "0006",
+      "type": "aaaaaaaa",
+      "titre": "aaaaaaaa",
+      "date": "03/25/2024"
+    }
+  ],
+  "evt": [
+    {
+      "id": "0001",
+      "titre": "12345",
+      "lieu": "ali hammami",
+      "dateDebut": "2024-01-27",
+      "dateFin": "2024-01-27"
+    },
+    {
+      "id": "0001",
+      "titre": "12345",
+      "lieu": "ali hammami",
+      "dateDebut": "2024-01-27",
+      "dateFin": "2024-01-27"
+    },
+    {
+      "id": "2",
+      "titre": "aaaa",
+      "lieu": "aaaa",
+      "dateDebut": "2024-04-10T23:00:00.000Z",
+      "dateFin": "2024-04-17T23:00:00.000Z"
+    },
+    {
+      "id": "0004",
+      "titre": "aliali",
+      "lieu": "aliali",
+      "dateDebut": "2024-04-24T23:00:00.000Z",
+      "dateFin": "2024-04-26T23:00:00.000Z"
+    },
+    {
+      "id": "0005",
+      "titre": "test",
+      "lieu": "test",
+      "dateDebut": "2024-04-15T23:00:00.000Z",
+      "dateFin": "2024-04-17T23:00:00.000Z"
+    },
+    {
+      "id": "006",
+      "titre": "zzzzzz",
+      "lieu": "zzzzz",
+      "dateDebut": "2024-04-17T23:00:00.000Z",
+      "dateFin": "2024-04-22T23:00:00.000Z"
+    },
+    {
+      "id": "4eb3"
+    }
+  ],
+  "adherents": [
+    {
+      "id": "1",
+      "name": "Emna Kammoun",
+      "email": "emna@gmail",
+      "numtel": "4567",
+      "adresse": "Sfax",
+      "dateNaissance": "2024-05-14T23:00:00.000Z",
+      "dateInscription": "2024-05-21T23:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Emna Kammoun",
+      "email": "emna@gmail",
+      "numtel": "56789",
+      "adresse": "Sfax",
+      "dateNaissance": "2024-05-19T23:00:00.000Z",
+      "dateInscription": "2024-05-28T23:00:00.000Z"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "type": "Montagne"
+    },
+    {
+      "id": "2",
+      "type": "Emna Kammoun"
+    },
+    {
+      "id": "3",
+      "type": "sport"
+    }
+  ],
+  "bicycles": [
+    {
+      "id": "b1",
+      "model": "XTR",
+      "color": "Red",
+      "isAvailable": true,
+      "typeId": "1"
+    },
+    {
+      "id": "b3",
+      "model": "Urban",
+      "color": "Green",
+      "isAvailable": true,
+      "typeId": "3"
+    },
+    {
+      "id": "b4",
+      "model": "Trailblazer",
+      "color": "Black",
+      "isAvailable": true,
+      "typeId": "1"
+    },
+    {
+      "id": "b5",
+      "model": "Commuter",
+      "color": "Gray",
+      "isAvailable": false,
+      "typeId": "3"
+    },
+    {
+      "id": "5b5f",
+      "model": "JJ",
+      "color": "Blue",
+      "isAvailable": true,
+      "typeId": "2"
+    },
+    {
+      "id": "6444",
+      "model": "J",
+      "color": "5JJ",
+      "isAvailable": true,
+      "typeId": "2"
+    },
+    {
+      "id": "ad40",
+      "model": "h",
+      "color": "jj",
+      "isAvailable": true,
+      "typeId": "1"
+    }
+  ],
+  "bicycleTypes": [
+    {
+      "id": "1",
+      "type": "Mountain Bike"
+    },
+    {
+      "id": "2",
+      "type": "Road Bike"
+    },
+    {
+      "id": "3",
+      "type": "City Bike"
+    }
+  ]
+}
